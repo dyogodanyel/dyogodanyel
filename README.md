@@ -3,8 +3,8 @@
 **Backend Developer & Systems Analysis Student** | Python | SQL | Power BI | API Development
 
 🎓 Graduating in Systems Analysis and Development at SENAC (2027)  
-💼 Currently working as Customer Service Operator at Hermes Pardini - Fleury Group  
-🚀 Transitioning from customer service to backend development  
+💼 IT Governance Trainee @ Wellhub | Learning about IT processes & compliance 
+🚀 Backend Developer in training
 📍 São Paulo, Brazil
 
 ## 🛠 Technical Skills
@@ -23,9 +23,12 @@
 I'm passionate about building efficient backend systems and data-driven solutions. With strong analytical skills from my customer service background, I aim to create applications that solve real-world problems.
 
 ## 📫 Let's Connect
-- 📧 Email: dyogo.franca@hotmail.com
-- 📞 Phone: (11) 98955-7068
-- 💼 LinkedIn: [[Let me know if you have one!]](https://www.linkedin.com/in/dyogodanyel)
+<a href="mailto:dyogo.franca@hotmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30"/>
+</a>
+<a href="https://www.linkedin.com/in/dyogodanyel" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 ---
 
