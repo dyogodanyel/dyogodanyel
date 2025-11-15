@@ -8,10 +8,12 @@
 📍 São Paulo, Brazil
 
 ## 🛠 Technical Skills
-- **Languages:** Python, JavaScript, SQL
-- **Web Development:** HTML, CSS, JavaScript
-- **Data Analysis:** Power BI, Excel, Power Query, VBA
-- **Tools:** Office Suite, Git
+<a href="https://github.com/dyogodanyel">  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyogodanyel&hide_progress=false&layout=compact&theme=dark&card_width=350em)
+
+</a>
+
 
 ## 📌 Currently Learning & Improving
 - Backend development with Python
