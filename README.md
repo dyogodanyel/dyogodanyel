@@ -34,4 +34,4 @@ I'm passionate about building efficient backend systems and data-driven solution
 
 ---
 
-*"Combining technical education with practical customer experience to build user-focused applications."*
+*"Life boils down to knowing nothing and acting anyway."*
