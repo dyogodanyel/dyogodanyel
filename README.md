@@ -4,7 +4,7 @@
 
 🎓 Graduating in Systems Analysis and Development at SENAC (2027)  
 💼 IT Governance Trainee @ Wellhub | Learning about IT processes & compliance  
-🚀 Backend Developer in training
+🚀 Backend Developer in training  
 📍 São Paulo, Brazil
 
 ## 🛠 Technical Skills
